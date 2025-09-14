@@ -1,0 +1,12 @@
+debug/clineedit.o
+debug/loginwidget.o
+debug/main.o
+debug/mainwindow.o
+debug/rotatingstackedwidget.o
+debug/animationstackwidget.o
+debug/qrc_resource.o
+debug/moc_clineedit.o
+debug/moc_loginwidget.o
+debug/moc_mainwindow.o
+debug/moc_rotatingstackedwidget.o
+debug/moc_animationstackwidget.o

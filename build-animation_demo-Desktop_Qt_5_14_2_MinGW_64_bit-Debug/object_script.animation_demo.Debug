@@ -1,0 +1,12 @@
+debug/animationdialog.o
+debug/animationstackwidget.o
+debug/main.o
+debug/mainwindow.o
+debug/page01.o
+debug/page02.o
+debug/qrc_images.o
+debug/moc_animationdialog.o
+debug/moc_animationstackwidget.o
+debug/moc_mainwindow.o
+debug/moc_page01.o
+debug/moc_page02.o

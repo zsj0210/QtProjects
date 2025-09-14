@@ -1,0 +1,12 @@
+release/animationdialog.o
+release/animationstackwidget.o
+release/main.o
+release/mainwindow.o
+release/page01.o
+release/page02.o
+release/qrc_images.o
+release/moc_animationdialog.o
+release/moc_animationstackwidget.o
+release/moc_mainwindow.o
+release/moc_page01.o
+release/moc_page02.o
